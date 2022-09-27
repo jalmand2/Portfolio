@@ -6,7 +6,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: -9px;
+    margin: -17px;
 }
 .first-header {
     background-color: rgb(213, 70, 99);
@@ -31,16 +31,26 @@ a {
     height: 200px;
     background-size: cover;
     margin: -17px;
+    position: relative;
     
     }
 .h2 {
-	font-size: 20px;
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
+	font-size: 25px;
+    width: 150px;
+    height: 40px;
     background-color: rgb(213, 70, 99);
-    width: 100%;
     color:rgb(115, 175, 227);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 70%;
+    top: 50%;
+    
+
+    
+    
+    
 }
 .work-images {
     display: flex;
@@ -53,7 +63,7 @@ main {
     display: flex;
     flex-direction: column;
     background-image: linear-gradient(to bottom right,rgb(228, 186, 133), rgb(115, 175, 227));
-    margin: -10px;
+    margin: -17px;
 }
 section {
     display: flex;
