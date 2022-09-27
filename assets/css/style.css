@@ -1,0 +1,135 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+header {
+    background-image: linear-gradient(to bottom right, rgb(115, 175, 227), rgb(228, 186, 133));
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: -9px;
+}
+.first-header {
+    background-color: rgb(213, 70, 99);
+    color: rgb(115, 175, 227);
+    
+    
+}
+h1 {
+    margin: 30px;
+    
+}
+.header-links {
+    margin: 30px;
+}
+a {
+    text-decoration: none;
+    border-bottom: solid;
+    color: rgb(213, 70, 99);
+}
+.subtitle {
+    background-image: url(../images/background.jpg);
+    height: 200px;
+    background-size: cover;
+    margin: -17px;
+    
+    }
+.h2 {
+	font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-color: rgb(213, 70, 99);
+    width: 100%;
+    color:rgb(115, 175, 227);
+}
+.work-images {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: 5;
+
+}
+main {
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(to bottom right,rgb(228, 186, 133), rgb(115, 175, 227));
+    margin: -10px;
+}
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+p {
+    font-size: 75%;
+
+}
+.heading-style {
+    border-right: solid;
+    padding: 10px;
+    border-width: 2px;
+    padding-left: 200px;
+}
+.heading-style-2 {
+    border-right: solid;
+    padding: 10px;
+    border-width: 2px;
+    padding-left: 214px;
+}
+.heading-style-3 {
+    border-right: solid;
+    padding: 10px;
+    border-width: 2px;
+    margin-left: -295px;
+}
+.heading-style-4 {
+    border-right: solid;
+    padding: 10px;
+    border-width: 2px;
+    margin-left: 65px;
+}
+
+#horiseon {
+    max-width: 91%;
+    height: auto;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(213, 70, 99);
+    margin: 5px;
+}
+
+#placeholder {
+    max-width: 45%;
+    max-height: 300px;
+    height: auto;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(213, 70, 99);
+    margin: 5px;
+}
+
+.img-link {
+    border-bottom: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+li {
+    margin: 20px;
+    padding: 10px;
+}
+@media screen (max-width: 400px) { 
+        
+}
+
+
+
