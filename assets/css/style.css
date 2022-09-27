@@ -11,6 +11,10 @@ header {
 .first-header {
     background-color: rgb(213, 70, 99);
     color: rgb(115, 175, 227);
+    display: flex;
+    padding-left: 90px;
+    padding-right: 10px;
+    margin-left: 10px;
     
     
 }
