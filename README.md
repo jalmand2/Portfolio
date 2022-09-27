@@ -13,9 +13,8 @@ N/A
 
 The following screenshot and link displays the deployed project. 
 
-```md
 ![portfolio-screenshot](assets/images/portfolio.jpg)
-```
+
 ## License
 
 N/A
