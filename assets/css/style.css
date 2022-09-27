@@ -4,7 +4,7 @@
 }
 /* This is giving my header shape and style */
 header {
-    background-image: linear-gradient(to bottom right, rgb(115, 175, 227), rgb(228, 186, 133));
+    background-image: linear-gradient(to right, rgb(115, 175, 227), rgb(228, 186, 133));
     display: flex;
     justify-content: space-between;
     align-items: center;
