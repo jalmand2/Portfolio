@@ -14,7 +14,7 @@ N/A
 The following screenshot and link displays the deployed project. 
 
 ![portfolio-screenshot](assets/images/portfolio.jpg)
-
+!["Portfolio Link"](https://jalmand2.github.io/challenge-two/)
 ## License
 
 N/A
