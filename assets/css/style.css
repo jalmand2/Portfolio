@@ -27,12 +27,15 @@ h1 {
 .navTabs {
     text-decoration: none;
     border-bottom: solid;
-    border-bottom-width: 5px;
+    border-bottom-width: 4px;
     margin-right: 30px;
     font-family: 'Libre Baskerville', serif;
     display: flex;
     flex-direction: row-reverse;
+    justify-content: center;
+    
 }
+
 .navTabs:hover {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
@@ -119,7 +122,7 @@ main {
     margin-left: 65px;
 }
 
-#coffee-image {
+#workImages {
     max-width: 91%;
     height: auto;
     border: solid;
@@ -213,7 +216,9 @@ li {
         margin: 10px;
         
     }
-   
+   #aboutMeHeading {
+    font-size: 18px;
+   }
 
     
 }
